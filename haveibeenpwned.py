@@ -34,7 +34,7 @@ ENDC = '\033[0m'
 
 address = str(args.address)
 filename = str(args.filename)
-lstEmail = ["info@example.com","example@example.com]
+lstEmail = ["info@example.com","example@example.com"]
 
 def main():
     if address != "None":
